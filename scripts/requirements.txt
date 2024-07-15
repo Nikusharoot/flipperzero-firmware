@@ -5,3 +5,4 @@ grpcio==1.47.0
 grpcio-tools==1.47.0
 protobuf==3.20.2
 python3-protobuf==2.5.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
